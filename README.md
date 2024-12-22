@@ -18,4 +18,4 @@ A simple and visually appealing calculator application built using Python and Tk
 ## Download the .exe Version
 For users who do not have Python installed, you can download the standalone .exe file of the calculator:
 
-[Download Calculator.exe](https://github.com/izdravko397/Calculator_app/calculator.exe)
+[Download Calculator.exe](https://github.com/izdravko397/Calculator_app/)
